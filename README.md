@@ -113,4 +113,6 @@ Building the project from source for security reasons.
 
 This project is licensed under the [MIT License](/LICENSE).
 
-Update:  16 June 2025 Sitemap URLs
+
+
+Update: Image links
